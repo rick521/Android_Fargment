@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable-v24/classify_slector.xml" value="0.2388888888888889" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable-v24/ic_baseline_widgets_black_24.xml" value="0.26510416666666664" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable-v24/ic_baseline_widgets_green_24.xml" value="0.26510416666666664" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable-v24/text_color.xml" value="0.26510416666666664" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable-v24/user_selector.xml" value="0.26510416666666664" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable/button_round.xml" value="0.25" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/drawable/setting.xml" value="0.2388888888888889" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/layout/activity_main.xml" value="0.1766304347826087" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/layout/classify.xml" value="0.1766304347826087" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/layout/mine.xml" value="0.1766304347826087" />
+        <entry key="..\:/android_project/Project Clip/Demo_Fragment/app/src/main/res/layout/search.xml" value="0.1766304347826087" />
+        <entry key="..\:/android_project/Project_Clip/Demo_Fragment/app/src/main/res/drawable/setting.xml" value="0.1824074074074074" />
+        <entry key="..\:/android_project/Project_Clip/Demo_Fragment/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/android_project/Project_Clip/Demo_Fragment/app/src/main/res/layout/classify.xml" value="0.17916666666666667" />
+        <entry key="..\:/android_project/Project_Clip/Demo_Fragment/app/src/main/res/menu/menu.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
